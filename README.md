@@ -79,20 +79,81 @@ Section ini menampilkan nama dan menu navigasi seperti Home, About dan Certifica
 
 Section ini menampilkan copyright website dengan warna tema merah.
 
+---
 
+# 💻 Penjelasan Setiap Code Section
 
+## Head
 
+<img width="799" height="248" alt="image" src="https://github.com/user-attachments/assets/5d504a23-b057-4118-976c-80888cb29308" />
 
+Bagian section Head ini berfungsi untuk mengatur identitas dan pengaturan dasar halaman website. Pada bagian ini terdapat pengaturan karakter dan tampilan responsif agar website dapat menyesuaikan berbagai ukuran layar. Tag <title> digunakan untuk menentukan judul halaman yaitu “Portfolio Yardan Raditya” yang muncul pada tab browser. Selain itu terdapat penghubung file CSS melalui <link rel="stylesheet"> yang digunakan untuk memuat styling dan desain tampilan website.
 
+---
 
+## Navbar
 
+<img width="629" height="216" alt="image" src="https://github.com/user-attachments/assets/06da1ece-91a3-4d97-9917-821d5c28d91c" />
 
+Bagian section Navbar ini berfungsi sebagai menu navigasi utama pada website yang memudahkan pengguna berpindah antar section. Di dalamnya ada elemen logo berupa nama “yardanrdtya” sebagai identitas website, serta daftar menu navigasi yaitu Home, About, dan Certificates. Setiap menu menggunakan link anchor (#id) yang terhubung langsung ke section terkait pada halaman sehingga ketika diklik halaman akan berpindah ke bagian tersebut.
 
+---
 
+## Hero
 
+<img width="1137" height="220" alt="image" src="https://github.com/user-attachments/assets/6a9f6c6a-0e43-4e4e-bc9a-5cadc769729c" />
 
+Bagian section Hero ini merupakan section pembuka atau hero pada website yang menampilkan perkenalan singkat pemilik portofolio. Di dalamnya terdapat teks sapaan, nama lengkap, dan deskripsi singkat mengenai latar belakang saya sebagai mahasiswa Sistem Informasi. Selain itu ada elemen gambar yang menampilkan foto profil dari folder img sebagai identitas visual. Section ini menjadi tampilan utama yang pertama kali dilihat pengunjung saat membuka website.
 
+---
 
+## About
 
+<img width="1579" height="106" alt="image" src="https://github.com/user-attachments/assets/a975a3c0-8d10-4ee1-9405-fdf6d081643b" />
 
+Bagian section About ini berfungsi untuk menampilkan informasi profil singkat mengenai pemilik portofolio. Di dalamnya ada judul “About Me” dan paragraf deskripsi. Section ini memberikan gambaran identitas dan tujuan profesional kepada pengunjung website.
 
+---
+
+## Skills
+
+<img width="514" height="742" alt="image" src="https://github.com/user-attachments/assets/f9973db9-89f4-4d4c-a2c3-d6d6df606776" />
+
+Bagian section Skills ini berfungsi untuk menampilkan keterampilan utama yang dimiliki dalam bentuk progress bar. Setiap skill dibungkus dalam class yang berisi nama keterampilan dan persentasenya. Di bawahnya terdapat elemen class bar sebagai latar progress bar, serta class fill yang menunjukkan tingkat penguasaan skill melalui lebar bar sesuai persentase.
+
+---
+
+## Experiences
+
+<img width="993" height="195" alt="image" src="https://github.com/user-attachments/assets/e253cfcc-c60e-4089-a30b-8a80c518db4a" />
+
+Bagian section Experience ini berfungsi untuk menampilkan pengalaman organisasi dan kegiatan profesional yang dimiliki. Section ini menggunakan elemen daftar ul yang berisi beberapa li untuk menampilkan setiap pengalaman secara terstruktur.
+
+---
+
+## Certificates
+
+<img width="1075" height="622" alt="image" src="https://github.com/user-attachments/assets/65afb251-a0b2-4c5c-97a8-1db9f35c110f" />
+
+Bagian section Certificate ini berfungsi untuk menampilkan daftar sertifikat yang dimiliki. Di dalamnya terdapat container yang menyusun sertifikat dalam bentuk layout grid. Setiap sertifikat ditampilkan dalam class card yang berisi gambar sertifikat, judul kegiatan, dan deskripsi singkat penyelenggara atau jenis pelatihan.
+
+---
+
+## Footer
+
+<img width="488" height="76" alt="image" src="https://github.com/user-attachments/assets/857d1052-0794-44e8-8305-5827b44f33c9" />
+
+Bagian section Footer ini berfungsi sebagai penutup halaman website yang menampilkan informasi hak cipta pemilik portofolio. Di dalamnya terdapat teks copyright “© 2026 Yardan Raditya Portfolio” yang menunjukkan identitas pembuat dan tahun pembuatan website.
+
+---
+
+# ⚙️ Teknologi yang Digunakan
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Design
+- Smooth Scroll CSS
+
+---
