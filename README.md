@@ -38,7 +38,7 @@ Fitur:
 
 ## 🙋 About Me
 
-<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/d3fc4710-8c93-4680-9ae1-dfc03df8b2ca" />
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/5811cf0f-1cb2-413c-b91e-54806fda25b9" />
 
 Section ini menampilkan informasi profil lengkap dalam satu container.
 
@@ -117,7 +117,7 @@ Bagian section About ini berfungsi untuk menampilkan informasi profil singkat me
 
 ## Skills
 
-<img width="514" height="742" alt="image" src="https://github.com/user-attachments/assets/f9973db9-89f4-4d4c-a2c3-d6d6df606776" />
+<img width="587" height="742" alt="image" src="https://github.com/user-attachments/assets/17c18d1e-58b0-4cb4-a444-f4f557e7acef" />
 
 Bagian section Skills ini berfungsi untuk menampilkan keterampilan utama yang dimiliki dalam bentuk progress bar. Setiap skill dibungkus dalam class yang berisi nama keterampilan dan persentasenya. Di bawahnya terdapat elemen class bar sebagai latar progress bar, serta class fill yang menunjukkan tingkat penguasaan skill melalui lebar bar sesuai persentase.
 
